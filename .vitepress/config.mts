@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   head: [
-    ['link', { rel: 'icon', href: '/logo.jpeg' }]
+    ['link', { rel: 'icon', href: '/logo.png' }]
   ],
 
   locales: {
@@ -12,7 +12,7 @@ export default defineConfig({
       title: "座头鲸工作室",
       description: "HumpbackLab",
       themeConfig: {
-        logo: '/logo.jpeg',
+        logo: '/logo.png',
         nav: [
           { text: '首页', link: '/' },
           { text: '产品介绍', link: '/products' },
@@ -30,7 +30,7 @@ export default defineConfig({
       title: 'HumpbackLab',
       description: 'Lightweight Flight Control Solutions',
       themeConfig: {
-        logo: '/logo.jpeg',
+        logo: '/logo.png',
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'Products', link: '/en/products' },
