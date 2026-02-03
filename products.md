@@ -90,4 +90,8 @@ AT32F435mini 是一款专为 INAV 固件优化的超小型飞控，集成 AT32F4
 
 ## 技术支持
 
-如需更多技术支持或产品咨询，请访问我们的 [GitHub](https://github.com/HumpbackLab) 或查阅完整的用户手册。
+如需更多技术支持或产品咨询，请通过以下方式联系我们：
+
+- **GitHub**: [HumpbackLab](https://github.com/HumpbackLab)
+- **QQ 群**: 763833895
+- **用户手册**: 查阅完整的产品使用手册

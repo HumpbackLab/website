@@ -90,4 +90,8 @@ AT32F435mini is a ultra-compact flight controller optimized for INAV firmware, i
 
 ## Technical Support
 
-For more technical support or product inquiries, please visit our [GitHub](https://github.com/HumpbackLab) or consult the complete user manuals.
+For more technical support or product inquiries, please contact us through:
+
+- **GitHub**: [HumpbackLab](https://github.com/HumpbackLab)
+- **QQ Group**: 763833895
+- **User Manuals**: Consult the complete product manuals

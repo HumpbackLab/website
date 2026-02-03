@@ -26,8 +26,8 @@ const content = {
         icon: '💬',
         title: 'QQ 群',
         description: '技术交流与答疑',
-        link: '',
-        linkText: '即将开放'
+        link: 'https://qm.qq.com/q/xdTQqEsQDL',
+        linkText: '763833895'
       }
     ]
   },
