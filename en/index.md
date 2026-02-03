@@ -5,13 +5,6 @@ hero:
   name: "HumpbackLab"
   text: "Lightweight Flight Control Solutions"
   tagline: Innovative products for RC hobbyists
-  actions:
-    - theme: brand
-      text: Products
-      link: /en/products
-    - theme: alt
-      text: Manuals
-      link: /en/manuals
 
 features:
   - title: 🚀 Innovative Products

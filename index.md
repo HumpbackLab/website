@@ -5,13 +5,6 @@ hero:
   name: "座头鲸工作室"
   text: "HumpbackLab"
   tagline: 轻量级航模飞行控制解决方案
-  actions:
-    - theme: brand
-      text: 产品介绍
-      link: /products
-    - theme: alt
-      text: 查看手册
-      link: /manuals
 
 features:
   - title: 🚀 创新产品

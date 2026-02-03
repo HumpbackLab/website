@@ -9,10 +9,10 @@ const productsData = {
     title: '我们的产品',
     products: [
       {
-        name: 'Android-ELRS 转换器',
-        description: '将安卓手机变成专业遥控器，支持虚拟摇杆和体感控制，即插即用，内置电池充电功能',
+        name: 'PocketTX',
+        description: '将安卓手机变成遥控器，支持虚拟摇杆和体感控制，即插即用，内置电池充电功能',
         image: '/manuals/Android-ELRS-manual/assets/1.png',
-        link: '/products#android-elrs-转换器',
+        link: '/pockettx',
         manual: '/manuals/android-elrs-manual.pdf',
         buttons: {
           details: '了解详情',
@@ -20,10 +20,10 @@ const productsData = {
         }
       },
       {
-        name: 'AT32F435mini 飞控',
+        name: 'LightFin',
         description: '1S 轻量级一体式飞控，集成 ELRS 接收机，适合差速固定翼和纸飞机改装',
         image: '/manuals/flight-controller-manual/assets/product-overview.png',
-        link: '/products#at32f435mini-inav-飞控',
+        link: '/lightfin',
         manual: '/manuals/flight-controller-manual.pdf',
         buttons: {
           details: '了解详情',
@@ -36,10 +36,10 @@ const productsData = {
     title: 'Our Products',
     products: [
       {
-        name: 'Android-ELRS Converter',
-        description: 'Transform your Android phone into a professional RC transmitter with virtual joystick and motion control, plug and play, built-in battery charging',
+        name: 'PocketTX',
+        description: 'Transform your Android phone into an RC transmitter with virtual joystick and motion control, plug and play, built-in battery charging',
         image: '/manuals/Android-ELRS-manual/assets/1.png',
-        link: '/en/products#android-elrs-converter',
+        link: '/en/pockettx',
         manual: '/manuals/android-elrs-manual.pdf',
         buttons: {
           details: 'Learn More',
@@ -47,10 +47,10 @@ const productsData = {
         }
       },
       {
-        name: 'AT32F435mini Flight Controller',
+        name: 'LightFin',
         description: '1S lightweight integrated flight controller with ELRS receiver, suitable for differential thrust fixed-wing and paper airplane conversion',
         image: '/manuals/flight-controller-manual/assets/product-overview.png',
-        link: '/en/products#at32f435mini-inav-flight-controller',
+        link: '/en/lightfin',
         manual: '/manuals/flight-controller-manual.pdf',
         buttons: {
           details: 'Learn More',
