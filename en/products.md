@@ -15,15 +15,15 @@ The Android-ELRS Converter is a revolutionary smart hardware that instantly tran
 ### Key Features
 
 - **Plug and Play** - Powers directly from phone's Type-C port, no external battery needed
-- **Industrial-Grade Communication** - Uses ExpressLRS (ELRS) open source protocol with ultra-high refresh rate and strong anti-interference
+- **Open Source Link** - Based on ExpressLRS (ELRS) open source project with good refresh rate and anti-interference capability
 - **Dual Control Modes** - Supports both virtual joystick and motion control
 - **Integrated Charging** - Built-in 1S battery charging system with 500mA constant current charging
 
-### Technical Highlights
+### Technical Features
 
-- Industrial-grade serial conversion chip ensures stable communication without packet loss
-- Based on ExpressLRS open source project, providing professional wireless performance
-- Built-in high-performance antenna supporting long-range control
+- Uses serial conversion chip to ensure communication stability
+- Integrates ExpressLRS wireless link for reliable RC performance
+- Built-in antenna meets daily flying distance needs
 - Supports Crossfire (CRSF) protocol standard
 
 ### Use Cases
