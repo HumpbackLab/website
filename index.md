@@ -2,22 +2,24 @@
 layout: home
 
 hero:
-  name: "Website"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "座头鲸工作室"
+  text: "HumpbackLab"
+  tagline: 轻量级航模飞行控制解决方案
   actions:
     - theme: brand
-      text: Get Started
-      link: /guide
+      text: 产品介绍
+      link: /products
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/HumpbackLab/website
+      text: 查看手册
+      link: /manuals
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 🚀 创新产品
+    details: 持续研发轻量级航模控制解决方案，从手机遥控器到微型飞控，让飞行更简单
+  - title: 🌐 开源生态
+    details: 基于 INAV 和 ExpressLRS 等优秀开源项目，深度集成优化，拥抱社区协作
+  - title: 📚 技术分享
+    details: 完整的产品文档、详细的使用手册，定期发布技术文章分享项目经验
 ---
+
+<ProductCarousel />
