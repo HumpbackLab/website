@@ -1,0 +1,6 @@
+[submodule "manuals/Android-ELRS-manual"]
+	path = manuals/Android-ELRS-manual
+	url = https://github.com/HumpbackLab/Android-ELRS-manual.git
+[submodule "manuals/flight-controller-manual"]
+	path = manuals/flight-controller-manual
+	url = git@github.com:HumpbackLab/flight-controller-manual.git
