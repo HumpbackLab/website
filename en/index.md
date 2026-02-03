@@ -25,5 +25,3 @@ features:
 <ProductCarousel />
 
 <CommunitySection />
-
-<TechStack />

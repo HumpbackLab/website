@@ -171,11 +171,19 @@ onUnmounted(() => {
   align-items: center;
 }
 
+.product-image {
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
 .product-image img {
   width: 100%;
-  height: auto;
+  height: 100%;
   border-radius: 8px;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .product-info h3 {

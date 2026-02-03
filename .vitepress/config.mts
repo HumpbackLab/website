@@ -21,7 +21,10 @@ export default defineConfig({
         sidebar: [],
         socialLinks: [
           { icon: 'github', link: 'https://github.com/HumpbackLab' }
-        ]
+        ],
+        footer: {
+          copyright: 'Copyright © 2026-present HumpbackLab'
+        }
       }
     },
     en: {
@@ -39,7 +42,10 @@ export default defineConfig({
         sidebar: [],
         socialLinks: [
           { icon: 'github', link: 'https://github.com/HumpbackLab' }
-        ]
+        ],
+        footer: {
+          copyright: 'Copyright © 2026-present HumpbackLab'
+        }
       }
     }
   }
